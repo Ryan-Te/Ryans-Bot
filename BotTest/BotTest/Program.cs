@@ -14,8 +14,6 @@ using System.Runtime.ConstrainedExecution;
 using System.Globalization;
 using System.IO;
 
-//Bot Invite Code https://discord.com/api/oauth2/authorize?client_id=768566038395879484&permissions=1812462657&scope=bot
-
 class Program
 {
     public static void Main(string[] args)
